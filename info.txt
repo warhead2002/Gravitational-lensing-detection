@@ -1,0 +1,3 @@
+model trained on
+- 109 lensed image
+- 166 unlensed image
